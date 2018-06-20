@@ -1,4 +1,4 @@
-## Google implementation example.
+## Google auth implementation example.
 
 *Simple google auth example using react-native-google-sign.*
 
