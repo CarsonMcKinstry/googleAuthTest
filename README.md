@@ -11,4 +11,4 @@
 
 
 - [x] Example with IOS.
-- [] Example with Android.
+- [ ] Example with Android.
